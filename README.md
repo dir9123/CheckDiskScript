@@ -33,16 +33,14 @@ Clique com o botão direito do mouse em "Windows PowerShell" e selecione "Execut
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/<seu-usuario>/CheckDiskScript.git
+   git clone https://github.com/dir9123/CheckDiskScript.git
    cd CheckDiskScript
-
-   Abra o PowerShell como Administrador:
 
 Execute o script:
 ./chkdsk.ps1
 
-
 Siga as instruções:
+
 
 Digite a letra da unidade que deseja verificar (por exemplo, C:).
 

@@ -55,6 +55,7 @@ Check-PendingReboot: Verifica se há reinicializações pendentes no sistema.
 Exemplo de Saída
 
 Digite a letra da unidade que deseja verificar (por exemplo, C:): C
+
 Iniciando verificação de disco na unidade C:...
 CHKDSK está verificando arquivos (etapa 1 de 5)...
 Verificação de disco completa. Verifique a saída acima para detalhes.
